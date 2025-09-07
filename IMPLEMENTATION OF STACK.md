@@ -21,6 +21,9 @@ Write a Python program to implement stack using List and its built-in methods (a
  
 ### PROGRAM
 ```
+Reg.no: 212223060305
+Name: Vishnu Priya E
+
 stack = []
 for i in range (5):
     a=input()
